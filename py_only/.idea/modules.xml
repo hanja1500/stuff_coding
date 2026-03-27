@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/py_only/.idea/py_only.iml" filepath="$PROJECT_DIR$/py_only/.idea/py_only.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_only.iml" filepath="$PROJECT_DIR$/.idea/py_only.iml" />
     </modules>
   </component>
 </project>
